@@ -30,3 +30,6 @@
 <h5>Operating Systems:</h5>
 <p><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> , <b>Windows and Mac</b></p>
 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naingolan&show_icons=true&locale=en" alt="naingolan" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naingolan&" alt="naingolan" />
