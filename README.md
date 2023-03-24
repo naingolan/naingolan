@@ -1,7 +1,7 @@
 <h1 align="center"> Hi👋, I'm Kelvin Chaula </h1>
 <h3 align="center">Software Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismohamedi&label=Profile%20views&color=0e75b6&style=flat" alt="ismohamedi" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naingolan&label=Profile%20views&color=0e75b6&style=flat" alt="niangolan" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naingolan" alt="naingolan" /></a> </p>
 
