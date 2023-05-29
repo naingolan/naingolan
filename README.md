@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naingolan&label=Profile%20views&color=0e75b6&style=flat" alt="niangolan" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naingolan" alt="naingolan" /></a> </p>
-
 - 💬 Ask me about **Python, .NET, Django, React Js, Angular, Java**
 
 <h3 align="left">Connect with me:</h3>
