@@ -1,7 +1,7 @@
 <h1 align="center"> Hi👋, I'm Kelvin Chaula </h1>
 <h3 align="center">Software Engineer </h3>
 
-- 💬 Ask me about **Python, .NET, Django, React Js, Angular, Java**
+- 💬 Ask me about **Python, .NET, Django, Node.js, Angular, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
