@@ -1,7 +1,7 @@
 <h1 align="center"> Hi👋, I'm Kelvin Chaula </h1>
 <h3 align="center">Software Developer </h3>
 
-- 💬 Ask me about **Java, Dart, Kotlin, Node.js, Angular**
+- 💬 Ask me about **Java, Dart, Kotlin, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
