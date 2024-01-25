@@ -10,12 +10,5 @@
   <b>Phone Number: </b> <a href="tel:+255768498799">+255768498799</a><br>
 </p>
 
-<h3 align="left">Languages, Framework and Tools:</h3>
-<h5>Programming Languages:</h5>
-<p></p>
 
 
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naingolan&show_icons=true&locale=en" alt="naingolan" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naingolan&" alt="naingolan" />
